@@ -1,0 +1,12 @@
+# environments
+venv/
+__pycache__/
+
+# data
+*.csv
+
+# notebooks checkpoints
+.ipynb_checkpoints/
+
+# system
+.DS_Store
